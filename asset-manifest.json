@@ -10,7 +10,7 @@
     "main.9bc73623.js.map": "/isetdata/static/js/main.9bc73623.js.map"
   },
   "entrypoints": [
-    "/isetdata/static/css/main.5ae81a6a.css",
-    "/isetdata/static/js/main.9bc73623.js"
+    "https://digital-pro.github.io/isetdata/static/css/main.5ae81a6a.css",
+    "https://digital-pro.github.io/isetdata/static/js/main.9bc73623.js"
   ]
 }
